@@ -1,0 +1,2 @@
+[10-Sep-2021 20:00:16 Europe/Athens] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ';' or ',' in /home/kgis/public_html/gis_service/webservice.php on line 367
+[10-Sep-2021 20:00:18 Europe/Athens] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ';' or ',' in /home/kgis/public_html/gis_service/webservice.php on line 367
